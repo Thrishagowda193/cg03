@@ -14,13 +14,7 @@ public class main {
 		
 		System.out.println("Name"  +name);
 		System.out.println("age"  +age);
-		
-		
-		
-		
-		
-		
-		
+			
 	}
 
 }
