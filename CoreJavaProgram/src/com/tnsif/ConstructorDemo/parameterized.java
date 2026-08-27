@@ -30,7 +30,7 @@ System.out.println("salary  " + sal);
 
 public class parameterized {
 public static void main(String[] args) {
-	Scanner sc=new Scanner(System.in);
+	Scanner sc =new Scanner(System.in);
 	
 	System.out.println("Enter the id");
 	int id=sc.nextInt();
